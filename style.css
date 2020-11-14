@@ -1,0 +1,70 @@
+
+  h1 {
+    margin-bottom: 15px;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    background-image: url('http://www.dkwebdesign.co.za/images/web/web-1012467_1280.jpg');
+
+  }
+
+  h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    background-image: url('http://www.dkwebdesign.co.za/images/web/web-1012467_1280.jpg');
+  }
+
+ h3 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    background-image: url('http://www.dkwebdesign.co.za/images/web/web-1012467_1280.jpg');
+  }
+
+body {
+  background-image: url('https://hdqwalls.com/wallpapers/geometry-abstract-minimalism-0x.jpg');
+  background-repeat: no-repeat;
+}
+
+ img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+    p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url('http://www.dkwebdesign.co.za/images/web/web-1012467_1280.jpg');
+
+  }
+
+    ul {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    /* Give an element a solid border. */
+    border-style: solid;
+    /* Render the border 5 pixels thick. */
+    border-width: 5px;
+    /* Include bullets in the content flow. */
+    /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
+    list-style-position: inside;
+    background-image: url('http://www.dkwebdesign.co.za/images/web/web-1012467_1280.jpg');
+  }
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-image: url('https://sta.uwi.edu/accreditation/sites/default/files/accreditation/accreditation-Banner.jpeg');
+  }
